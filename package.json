@@ -6,13 +6,13 @@
     "@aws-amplify/cli": "^5.3.0",
     "@aws-amplify/ui-react": "^1.2.8",
     "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^11.2.7",
-    "@testing-library/user-event": "^12.8.3",
+    "@testing-library/react": "^12.0.0",
+    "@testing-library/user-event": "^13.2.1",
     "aws-amplify": "^4.2.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "^1.1.5",
-    "web-vitals": "^1.1.2"
+    "react-scripts": "^4.0.3",
+    "web-vitals": "^2.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
