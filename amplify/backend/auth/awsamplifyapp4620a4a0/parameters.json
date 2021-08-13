@@ -1,6 +1,6 @@
 {
     "identityPoolName": "awsamplifyapp4620a4a0_identitypool_4620a4a0",
-    "allowUnauthenticatedIdentities": false,
+    "allowUnauthenticatedIdentities": true,
     "resourceNameTruncated": "awsamp4620a4a0",
     "userPoolName": "awsamplifyapp4620a4a0_userpool_4620a4a0",
     "autoVerifiedAttributes": [
